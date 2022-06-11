@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBuild.exe" "E:\OTH_CODE\ROO_EXE\Fees.exe\Fees.exe.csproj" /t:Rebuild /p:Configuration=Release /nologo /noconsolelogger
+
+
+"D:\PortableApps\AdvancedInstaller\v18.6Portable\AdvancedInstallerPortable.exe" /edit E:\OTH_CODE\INSTALLER_PROJECTS\Adv.18.6-Portable\SetupFeesAdv.aip /SetVersion 3.17.0526.2
